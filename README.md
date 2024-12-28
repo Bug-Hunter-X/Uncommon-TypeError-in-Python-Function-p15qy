@@ -1,0 +1,2 @@
+# Uncommon TypeError in Python
+This repository demonstrates a subtle TypeError that can arise in Python when type handling is not carefully considered. The main function attempts to divide two numbers but may encounter a string instead which is not handled leading to an unexpected result. The solution provides an improved version of the function that checks the input types and avoids the error.
